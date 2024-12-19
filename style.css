@@ -27,7 +27,7 @@
 .logo-netflix {
     height: 150px;
     transform: scaleX(1.25rem);
-    animation: giro 7s linear infinite;
+    animation: giro 6s linear infinite;
 }
 
 @keyframes giro {
